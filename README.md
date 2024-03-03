@@ -5,6 +5,14 @@ W planach jest napisanie aplikacji desktopowej która bêdzie klientem messengera 
 ## Czêœæ 1 - Logowanie
 Podczas logowania bêdzie pytanie czy u¿ytkownik loguje siêza pomoc¹ swojego konta facebook. W za³o¿eniou u¿ytkownik taki powinien posiadaæ swoje konto deweloperskie i ma mo¿liwoœc wygenerowania tokena. Celem tej czêœci jest generowanie tokena potrzebnego do komunikacji.
 
+### Plan czêœci pierwszej
+1. Stworzyæ front do logowania i pogl¹dow¹ zawartoœæ (na pocz¹tek równie dobrze mo¿e byæ po prostu napis "Zalogowa³eœ siê :D")
+2. Stworzyæ logikê odpowiadaj¹c¹ za proces logowania, na ten moment tylko dla  messnegera (sprawdzeni czy dzia³a) 
+
 ## Czêœæ 2 - Zawartoœæ
 Po zalogowaniu dostaniemy okno w którym po lewej stronie bêdziemy mieli listê konwersacji z podzia³em na platformê której dotyczy dana rozmowa oraz wewn¹trz platformy czy konwersacje s¹ grupowe (oddzielna podzak³adka - do przemyœlenia).
 Po prawej stronie bêdziemy mieli zawartoœæ zaznaczonej konwersacji, domyœlnie brak zaznaczenia. Wewn¹trz tej sekcji trzeba umieœciæ równie¿ galeriê multimediów (do przemyœlenia czy jako oddzielna zak³adka czy podzak³adka konwersacji) oraz t³umaczenie wiadomoœci.
+
+## Plan czêœci drugiej
+1. Pogl¹dowo stworzyæ Napis "Zalogowa³eœ siê *imiê i nazwisko u¿ytkownika*" w póŸniejszych etapach rozbudowa do zak³adek podanych w czêœci 2.
+2. tworzenie logiki odpowiadaj¹zej za funkcjonalnoœci aplikacji zawarte w opisie (d³ugi punkt, do rozbudowy)
