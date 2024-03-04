@@ -1,0 +1,6 @@
+@M_Hub.Bootstrapper_HostAddress = http://localhost:5142
+
+GET {{M_Hub.Bootstrapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
