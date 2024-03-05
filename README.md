@@ -1,18 +1,21 @@
 # M-Hub
-## Za³o¿enia projektu
-W planach jest napisanie aplikacji desktopowej która bêdzie klientem messengera i instagrama. Rozmowy w przysz³oœci maj¹ byæ t³umaczone na okreœlony jêzyk, a u¿ytkownik bêdzie siê logowa³ za pomoc¹ swojego konta na facebook.
+## ZaÅ‚oÅ¼enia projektu
+W planach jest napisanie aplikacji desktopowej ktÃ³ra bÄ™dzie klientem messengera i instagrama. Rozmowy w przyszÅ‚oÅ›ci majÄ… byÄ‡ tÅ‚umaczone na okreÅ›lony jÄ™zyk, a uÅ¼ytkownik bÄ™dzie siÄ™ logowaÅ‚ za pomocÄ… swojego konta na facebook.
 
-## Czêœæ 1 - Logowanie
-Podczas logowania bêdzie pytanie czy u¿ytkownik loguje siêza pomoc¹ swojego konta facebook. W za³o¿eniou u¿ytkownik taki powinien posiadaæ swoje konto deweloperskie i ma mo¿liwoœc wygenerowania tokena. Celem tej czêœci jest generowanie tokena potrzebnego do komunikacji.
+## CzÄ™Å›Ä‡ 1 - Logowanie
+Podczas logowania bÄ™dzie pytanie czy uÅ¼ytkownik loguje siÄ™za pomocÄ… swojego konta facebook. W zaÅ‚oÅ¼eniou uÅ¼ytkownik taki powinien posiadaÄ‡ swoje konto deweloperskie i ma moÅ¼liwoÅ›c wygenerowania tokena. Celem tej czÄ™Å›ci jest generowanie tokena potrzebnego do komunikacji.
 
-### Plan czêœci pierwszej
-1. Stworzyæ front do logowania i pogl¹dow¹ zawartoœæ (na pocz¹tek równie dobrze mo¿e byæ po prostu napis "Zalogowa³eœ siê :D")
-2. Stworzyæ logikê odpowiadaj¹c¹ za proces logowania, na ten moment tylko dla  messnegera (sprawdzeni czy dzia³a) 
+### Plan czÄ™Å›ci pierwszej
+1. StworzyÄ‡ front do logowania i poglÄ…dowÄ… zawartoÅ›Ä‡ (na poczÄ…tek rÃ³wnie dobrze moÅ¼e byÄ‡ po prostu napis "ZalogowaÅ‚eÅ› siÄ™ :D")
+2. StworzyÄ‡ logikÄ™ odpowiadajÄ…cÄ… za proces logowania, na ten moment tylko dla  messnegera (sprawdzeni czy dziaÅ‚a)
+### Problemy
+1. Stworzenie aplikacji z tokenem api ktÃ³ry posiada odpowiednie uprawnienia
+2. Dzisiejsze problemy z platformÄ… Meta (05.03.2024)
 
-## Czêœæ 2 - Zawartoœæ
-Po zalogowaniu dostaniemy okno w którym po lewej stronie bêdziemy mieli listê konwersacji z podzia³em na platformê której dotyczy dana rozmowa oraz wewn¹trz platformy czy konwersacje s¹ grupowe (oddzielna podzak³adka - do przemyœlenia).
-Po prawej stronie bêdziemy mieli zawartoœæ zaznaczonej konwersacji, domyœlnie brak zaznaczenia. Wewn¹trz tej sekcji trzeba umieœciæ równie¿ galeriê multimediów (do przemyœlenia czy jako oddzielna zak³adka czy podzak³adka konwersacji) oraz t³umaczenie wiadomoœci.
+## CzÄ™Å›Ä‡ 2 - ZawartoÅ›Ä‡
+Po zalogowaniu dostaniemy okno w ktÃ³rym po lewej stronie bÄ™dziemy mieli listÄ™ konwersacji z podziaÅ‚em na platformÄ™ ktÃ³rej dotyczy dana rozmowa oraz wewnÄ…trz platformy czy konwersacje sÄ… grupowe (oddzielna podzakÅ‚adka - do przemyÅ›lenia).
+Po prawej stronie bÄ™dziemy mieli zawartoÅ›Ä‡ zaznaczonej konwersacji, domyÅ›lnie brak zaznaczenia. WewnÄ…trz tej sekcji trzeba umieÅ›ciÄ‡ rÃ³wnieÅ¼ galeriÄ™ multimediÃ³w (do przemyÅ›lenia czy jako oddzielna zakÅ‚adka czy podzakÅ‚adka konwersacji) oraz tÅ‚umaczenie wiadomoÅ›ci.
 
-## Plan czêœci drugiej
-1. Pogl¹dowo stworzyæ Napis "Zalogowa³eœ siê *imiê i nazwisko u¿ytkownika*" w póŸniejszych etapach rozbudowa do zak³adek podanych w czêœci 2.
-2. tworzenie logiki odpowiadaj¹zej za funkcjonalnoœci aplikacji zawarte w opisie (d³ugi punkt, do rozbudowy)
+## Plan czÄ™Å›ci drugiej
+1. PoglÄ…dowo stworzyÄ‡ Napis "ZalogowaÅ‚eÅ› siÄ™ *imiÄ™ i nazwisko uÅ¼ytkownika*" w pÃ³Åºniejszych etapach rozbudowa do zakÅ‚adek podanych w czÄ™Å›ci 2.
+2. tworzenie logiki odpowiadajÄ…zej za funkcjonalnoÅ›ci aplikacji zawarte w opisie (dÅ‚ugi punkt, do rozbudowy)
