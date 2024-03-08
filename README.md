@@ -21,5 +21,5 @@ Po prawej stronie będziemy mieli zawartość zaznaczonej konwersacji, domyślni
 Możliwość pobierania próbki głosu w celu przeczytania konwersacji przez uczestników (domyślnie zapewne Ivona ale do przemyślenia)
 
 ## Plan części drugiej
-1. Poglądowo stworzyć Napis "Zalogowałeś się *imię i nazwisko użytkownika*" w późniejszych etapach rozbudowa do zakładek podanych w części.
+1. Poglądowo stworzyć Napis "Zalogowałeś się *imię i nazwisko użytkownika*", ewentualnie nazwa strony w późniejszych etapach rozbudowa do zakładek podanych w części.
 2. tworzenie logiki odpowiadajązej za funkcjonalności aplikacji zawarte w opisie (długi punkt, do rozbudowy)
