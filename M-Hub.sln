@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M-Hub.Bootstrapper", "M-Hub.Bootstrapper\M-Hub.Bootstrapper.csproj", "{2CD172FC-5BA2-4FDD-B300-F42AF2504B8B}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C1EC9FA9-2F06-4347-9F9B-4D4E0FE6A13F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E776087D-2735-4D24-9048-4E626518B68D}"
@@ -16,21 +14,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{CE0A8C15-EE60-4CC9-820D-829DBB921BF8}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2CD172FC-5BA2-4FDD-B300-F42AF2504B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2CD172FC-5BA2-4FDD-B300-F42AF2504B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2CD172FC-5BA2-4FDD-B300-F42AF2504B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2CD172FC-5BA2-4FDD-B300-F42AF2504B8B}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{2CD172FC-5BA2-4FDD-B300-F42AF2504B8B} = {A6BFC893-7CD0-415E-9975-8FA2B3D805F8}
 		{E6B79C13-A2C4-4422-81AB-69DEA417E02E} = {C1EC9FA9-2F06-4347-9F9B-4D4E0FE6A13F}
 		{A6BFC893-7CD0-415E-9975-8FA2B3D805F8} = {C1EC9FA9-2F06-4347-9F9B-4D4E0FE6A13F}
 		{CE0A8C15-EE60-4CC9-820D-829DBB921BF8} = {C1EC9FA9-2F06-4347-9F9B-4D4E0FE6A13F}
