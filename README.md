@@ -22,4 +22,5 @@ Możliwość pobierania próbki głosu w celu przeczytania konwersacji przez ucz
 
 ## Plan części drugiej
 1. Poglądowo stworzyć Napis "Zalogowałeś się *imię i nazwisko użytkownika*", ewentualnie nazwa strony w późniejszych etapach rozbudowa do zakładek podanych w części.
+1.1 W przypadku zalogowania jako strona wyświetlić odpowiedni komunikat.
 2. tworzenie logiki odpowiadajązej za funkcjonalności aplikacji zawarte w opisie (długi punkt, do rozbudowy)
