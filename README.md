@@ -9,6 +9,7 @@ Podczas logowania będzie pytanie czy użytkownik loguje sięza pomocą swojego 
 1. Stworzyć front do logowania i poglądową zawartość (na początek równie dobrze może być po prostu napis "Zalogowałeś się :D")
 2. Stworzyć logikę odpowiadającą za proces logowania, na ten moment tylko dla  messnegera (sprawdzeni czy działa)
 3. Stworzyć stronę na platformie Meta którą mogę autoryzować pobieranie konwersacji. 
+4. Przetestować logowanie
 ### Problemy
 1. Stworzenie aplikacji z tokenem api który posiada odpowiednie uprawnienia
 2. Dzisiejsze problemy z platformą Meta (05.03.2024)
