@@ -13,6 +13,7 @@ Podczas logowania będzie pytanie czy użytkownik loguje sięza pomocą swojego 
 ### Problemy
 1. Stworzenie aplikacji z tokenem api który posiada odpowiednie uprawnienia
 2. Dzisiejsze problemy z platformą Meta (05.03.2024)
+3. Trzeba rozpocząć od czegoś, może od frontu.
 
 
 ## Część 2 - Zawartość
