@@ -12,7 +12,6 @@ Podczas logowania będzie pytanie czy użytkownik loguje sięza pomocą swojego 
 4. Przetestować logowanie
 ### Problemy
 1. Stworzenie aplikacji z tokenem api który posiada odpowiednie uprawnienia
-2. Trzeba rozpocząć od czegoś, może od frontu.
 
 
 ## Część 2 - Zawartość
