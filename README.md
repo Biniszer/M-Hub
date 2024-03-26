@@ -30,5 +30,7 @@ Możliwość pobierania próbki głosu w celu przeczytania konwersacji przez ucz
 1. Poglądowo stworzyć Napis "Zalogowałeś się *imię i nazwisko użytkownika*", ewentualnie nazwa strony w późniejszych etapach rozbudowa do zakładek podanych w części.
 a) W przypadku zalogowania jako strona wyświetlić odpowiedni komunikat.
 2. tworzenie logiki odpowiadajązej za funkcjonalności aplikacji zawarte w opisie (długi punkt, do rozbudowy)
-3. Rozplanować układ konwersacji i ułożenie funkcjonalności
-4. Sprawdzić czy jest oczekiwana zawartość 
+   a) panel boczny z platformami (facebook, instagram) w formie listy rozwijanej konwersacji
+   b) panel głowny z zawartością rozmowy (lub opcjami w przypadku szczegółów rozmowy(zawiera opcje typu tłumaczenie rozmowy))
+4. Rozplanować układ konwersacji i ułożenie funkcjonalności
+5. Sprawdzić czy jest oczekiwana zawartość 
