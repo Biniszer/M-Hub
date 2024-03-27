@@ -29,6 +29,7 @@ Możliwość pobierania próbki głosu w celu przeczytania konwersacji przez ucz
 ## Plan części drugiej
 1. Poglądowo stworzyć Napis "Zalogowałeś się *imię i nazwisko użytkownika*", ewentualnie nazwa strony w późniejszych etapach rozbudowa do zakładek podanych w części.
 a) W przypadku zalogowania jako strona wyświetlić odpowiedni komunikat.
+b) zaimplementować autoryzację za pomocą OAuth 2.0 dla messengera, Instagrama i whatsapp
 2. tworzenie logiki odpowiadajązej za funkcjonalności aplikacji zawarte w opisie (długi punkt, do rozbudowy)
    a) panel boczny z platformami (facebook, instagram) w formie listy rozwijanej konwersacji
    b) panel głowny z zawartością rozmowy (lub opcjami w przypadku szczegółów rozmowy(zawiera opcje typu tłumaczenie rozmowy))
