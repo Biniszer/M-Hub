@@ -18,6 +18,7 @@ Podczas logowania będzie pytanie czy użytkownik loguje sięza pomocą swojego 
   a) Sprawdzić czy po zalogowaniu jako fanpage wiadomości wyświetlają się poprawnie
   b) wysłać wiadomość testową
   c) wysłać obraz
+  d) wysłać link
 
 
 ## Część 2 - Zawartość
