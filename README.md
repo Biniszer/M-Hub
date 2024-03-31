@@ -37,3 +37,5 @@ c) domyślne logowanie będzie do messengera, każde inne jest opcjonalne, ewent
    b) panel głowny z zawartością rozmowy (lub opcjami w przypadku szczegółów rozmowy(zawiera opcje typu tłumaczenie rozmowy))
 4. Rozplanować układ konwersacji i ułożenie funkcjonalności
 5. Sprawdzić czy jest oczekiwana zawartość 
+6. Do ustalenia: Koncepcja 1 pozwala na otworzenie aplikacji i zalogowanie się do każdego z komunikatorów oddzielnie ale trzeba to robić za każdym raz jak włączy się aplikację. 
+Koncepcja 2 zakłada posiadanie konta aplikacji która pamięta dane logowania do komunikatorów, pozwoli to zalogiwać się różnym użytkownikom i nie wymusza logowania do komunikatorów za każdym razem.
