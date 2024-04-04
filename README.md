@@ -19,6 +19,7 @@ Podczas logowania będzie pytanie czy użytkownik loguje sięza pomocą swojego 
   b) wysłać wiadomość testową
   c) wysłać obraz
   d) wysłać link
+  e) wysłać rolkę 
 
 
 ## Część 2 - Zawartość
