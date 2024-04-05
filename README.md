@@ -16,7 +16,7 @@ Podczas logowania będzie pytanie czy użytkownik loguje sięza pomocą swojego 
 1. Stworzenie aplikacji z tokenem api który posiada odpowiednie uprawnienia
 2. Sprawdzić czy potrzeba fanpage żeby wygenerowac token z odpowiednimi uprawnieniami
   a) Sprawdzić czy po zalogowaniu jako fanpage wiadomości wyświetlają się poprawnie
-  b) wysłać wiadomość testową
+  b) wysłać wiadomość tekstową 
   c) wysłać obraz
   d) wysłać link
   e) wysłać rolkę 
