@@ -23,10 +23,10 @@ Podczas logowania będzie pytanie czy użytkownik loguje sięza pomocą swojego 
 
 
 ## Część 2 - Zawartość
-Po zalogowaniu dostaniemy okno w którym po lewej stronie będziemy mieli listę konwersacji z podziałem na platformę której dotyczy dana rozmowa oraz wewnątrz platformy czy konwersacje są grupowe (oddzielna podzakładka - do przemyślenia)
+Po zalogowaniu dostaniemy okno w którym po lewej stronie będziemy mieli listę konwersacji z podziałem na platformę której dotyczy dana rozmowa oraz wewnątrz platformy czy konwersacje są grupowe (oddzielna podzakładka - do przemyślenia).
 Po prawej stronie będziemy mieli zawartość zaznaczonej konwersacji, domyślnie brak zaznaczenia. Wewnątrz tej sekcji trzeba umieścić również galerię multimediów (do przemyślenia czy jako oddzielna zakładka czy podzakładka konwersacji) oraz tłumaczenie wiadomości.(do konfiguracji czy chcemy przetłumaczyć wiadomość czy całą załadowaną konwersacje, czy listę konwersacji)
 (Na koniec, jeśli starczy czasu)
-Możliwość pobierania próbki głosu w celu przeczytania konwersacji przez uczestników (domyślnie zapewne Ivona ale do przemyślenia lub opcja zablokowana do momentu pobrania próbki głosu)
+Możliwość pobierania próbki głosu w celu przeczytania konwersacji przez uczestników (domyślnie zapewne Ivona ale do przemyślenia lub opcja zablokowana do momentu pobrania próbki głosu).
 
 ## Plan części drugiej
 1. Poglądowo stworzyć Napis "Zalogowałeś się *imię i nazwisko użytkownika*", ewentualnie nazwa strony w późniejszych etapach rozbudowa do zakładek podanych w części.
