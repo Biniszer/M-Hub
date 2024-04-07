@@ -12,7 +12,7 @@ Podczas logowania będzie pytanie czy użytkownik loguje sięza pomocą swojego 
 3. Stworzyć stronę na platformie Meta którą mogę autoryzować pobieranie konwersacji. 
 4. Przetestować logowanie
 5. Zalogować się na inne konto.
-### Problemy
+## Problemy
 1. Stworzenie aplikacji z tokenem api który posiada odpowiednie uprawnienia
 2. Sprawdzić czy potrzeba fanpage żeby wygenerowac token z odpowiednimi uprawnieniami
   a) Sprawdzić czy po zalogowaniu jako fanpage wiadomości wyświetlają się poprawnie
