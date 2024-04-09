@@ -1,0 +1,26 @@
+<Page x:Class="YourNamespace.ContextPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="ContextPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- First Section: Messenger, Instagram, WhatsApp -->
+        <StackPanel Grid.Row="0">
+            <TextBlock Text="Messenger" HorizontalAlignment="Center"/>
+            <Button Content="Log in" Click="MessengerLogin_Click"/>
+            <TextBlock Text="Instagram" HorizontalAlignment="Center"/>
+            <Button Content="Log in" Click="InstagramLogin_Click"/>
+            <TextBlock Text="WhatsApp" HorizontalAlignment="Center"/>
+            <Button Content="Log in" Click="WhatsAppLogin_Click"/>
+        </StackPanel>
+
+        <!-- Second Section: Work in progress message -->
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="Work in progress" HorizontalAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Page>

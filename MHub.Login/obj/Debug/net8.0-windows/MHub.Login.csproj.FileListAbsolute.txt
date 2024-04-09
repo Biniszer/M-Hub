@@ -1,0 +1,4 @@
+C:\Users\Konrad\source\repos\M-Hub\MHub.Login\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Konrad\source\repos\M-Hub\MHub.Login\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Konrad\source\repos\M-Hub\MHub.Login\obj\Debug\net8.0-windows\MHub.Login_MarkupCompile.cache
+C:\Users\Konrad\source\repos\M-Hub\MHub.Login\obj\Debug\net8.0-windows\MHub.Login_MarkupCompile.lref
