@@ -7,7 +7,7 @@ Możliwa funkcjonalność w przyszłości to pobranie próbki głosu i czytanie 
 Podczas logowania będzie pytanie czy użytkownik loguje sięza pomocą swojego konta facebook. W założeniou użytkownik taki powinien posiadać swoje konto deweloperskie i ma możliwośc wygenerowania tokena. Celem tej części jest generowanie tokena potrzebnego do komunikacji.
 
 ### Plan części pierwszej
-1. Stworzyć front do logowania i poglądową zawartość (na początek równie dobrze może być po prostu napis "Zalogowałeś się :D")
+1. Stworzyć front do logowania i poglądową zawartość (na początek równie dobrze może być po prostu napis "Zalogowałeś się :D").
 2. Stworzyć logikę odpowiadającą za proces logowania, na ten moment tylko dla  messnegera (sprawdzeni czy działa)
 3. Stworzyć stronę na platformie Meta którą mogę autoryzować pobieranie konwersacji. 
 4. Przetestować logowanie.
