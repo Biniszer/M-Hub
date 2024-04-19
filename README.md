@@ -4,7 +4,7 @@ W planach jest napisanie aplikacji desktopowej która będzie klientem messenger
 Możliwa funkcjonalność w przyszłości to pobranie próbki głosu i czytanie konwersacji głosem uczestników.
 
 ## Część 1 - Logowanie
-Podczas logowania będzie pytanie czy użytkownik loguje sięza pomocą swojego konta facebook. W założeniou użytkownik taki powinien posiadać swoje konto deweloperskie i ma możliwośc wygenerowania tokena. Celem tej części jest generowanie tokena potrzebnego do komunikacji
+Podczas logowania będzie pytanie czy użytkownik loguje sięza pomocą swojego konta facebook. W założeniou użytkownik taki powinien posiadać swoje konto deweloperskie i ma możliwośc wygenerowania tokena. Celem tej części jest generowanie tokena potrzebnego do komunikacji.
 
 ### Plan części pierwszej
 1. Stworzyć front do logowania i poglądową zawartość (na początek równie dobrze może być po prostu napis "Zalogowałeś się :D").
