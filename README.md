@@ -11,7 +11,7 @@ Podczas logowania będzie pytanie czy użytkownik loguje sięza pomocą swojego 
 2. Stworzyć logikę odpowiadającą za proces logowania, na ten moment tylko dla  messnegera (sprawdzenie czy działa)
 3. Stworzyć stronę na platformie Meta którą mogę autoryzować pobieranie konwersacji. 
 4. Przetestować logowanie.
-5. Zalogować się na inne konto.
+5. Zalogować się na inne konto
 ## Problemy
 1. Stworzenie aplikacji z tokenem api który posiada odpowiednie uprawnienia.
 2. Sprawdzić czy potrzeba fanpage żeby wygenerowac token z odpowiednimi uprawnieniami.
