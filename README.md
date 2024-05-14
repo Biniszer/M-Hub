@@ -1,7 +1,7 @@
 # M-Hub
 ## Założenia projektu
 W planach jest napisanie aplikacji desktopowej która będzie klientem messengera i instagrama. Rozmowy w przyszłości mają być tłumaczone na określony język, a użytkownik będzie się logował za pomocą swojego konta na facebook.
-Możliwa funkcjonalność w przyszłości to pobranie próbki głosu i czytanie konwersacji głosem uczestników. 
+Możliwa funkcjonalność w przyszłości to pobranie próbki głosu i czytanie konwersacji głosem uczestników.
 
 ## Część 1 - Logowanie
 Podczas logowania będzie pytanie czy użytkownik loguje sięza pomocą swojego konta facebook. W założeniou użytkownik taki powinien posiadać swoje konto deweloperskie i ma możliwośc wygenerowania tokena. Celem tej części jest generowanie tokena potrzebnego do komunikacji.
